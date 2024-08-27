@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samantha
 - 👀 I’m interested in becoming a professional data analyst
 - 🌱 I’m currently learning Data Analytics, SQL, Tableau
-
+- 📫 How to reach me https://www.linkedin.com/in/samanthagrayhouston/
 
 <!---
 sgrayhouston/sgrayhouston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
